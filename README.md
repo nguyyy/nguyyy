@@ -1,6 +1,6 @@
 ╔═══════════════════════════════╗
 ║         nguyyy                ║
-║    minimal • focused • clean   ║
+║    minimal •  ミニマリズム       ║
 ╚═══════════════════════════════╝
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyyy&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
