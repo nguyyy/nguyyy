@@ -1,7 +1,7 @@
 ╔═══════════════════════════════╗
 ║         nguyyy                ║
-║    minimal • focused • clean   ║
-║       ミニマリズム              ║
+║    minimal • focused • clean  ║
+║       ミニマリズム               ║
 ╚═══════════════════════════════╝
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyyy&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
