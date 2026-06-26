@@ -1,1 +1,8 @@
-[![github stats](https://github-readme-stats.vercel.app/api?username=nguyyy)](https://github.com/anuraghazra/github-readme-stats)
+╔═══════════════════════════════╗
+║         nguyyy                ║
+║    minimal • focused • clean   ║
+╚═══════════════════════════════╝
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyyy&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nguyyy&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
